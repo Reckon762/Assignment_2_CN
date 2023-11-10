@@ -37,9 +37,15 @@ Using ping
 Using perf
 - use **iperf -s -u -i 1** to start listening on h6
 - run **iperf -c 100.103.0.101 -u -b** in h1 terminal to make connection with h6 and send packets
+
+Now, make change in the topology and again execute the above commands
+
 ---
 for part d
 ---
-Took screenshot after we ran **sudo mn -c ; python3 Q1.py**
+Took screenshot of routing table for all routers for both case after we ran **sudo mn -c ; python3 Q1.py** separately after making changes in the topology.
 
+
+---
+## Commands To execute the Q2.py
 
