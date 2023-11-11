@@ -1,5 +1,3 @@
-# Q2.py
-
 from mininet.topo import Topo
 from mininet.net import Mininet
 from mininet.cli import CLI
